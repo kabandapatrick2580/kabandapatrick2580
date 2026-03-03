@@ -1,6 +1,6 @@
 # Hi, I'm Patrick 👋
 
-## 🚀 Software Engineer | Systems Builder
+## 🚀 Software Engineer | Systems Builder | Software Architect
 
 I help startups and growing businesses streamline and scale their operations by engineering secure, automation-driven software systems.
 
