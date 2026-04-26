@@ -1,12 +1,12 @@
 # Hi, I'm Patrick 👋
 
-## 🚀 Software Engineer | Systems Builder | Solutions Architect
+## Software Engineer | Systems Builder | Solutions Architect
 
 I help startups and growing businesses streamline and scale their operations by engineering secure, automation-driven software systems.
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 - ⚙️ Scalable backend development  
 - 🔗 API design & integrations  
