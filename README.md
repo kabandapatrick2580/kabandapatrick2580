@@ -1,4 +1,4 @@
-# Hi, I'm Patrick 👋
+# Hi, I'm Patrick
 
 ## Software Engineer | Systems Builder | Solutions Architect
 
