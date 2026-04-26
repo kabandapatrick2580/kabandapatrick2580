@@ -26,7 +26,7 @@ Linux • Nginx • Git • REST APIs  • GraphQL • WebSocket
 
 ## 📫 Connect
 
-- LinkedIn: [https://linkedin.com/in/kabanda-patrick-b88b051b1/]
+- LinkedIn: [https://linkedin.com/in/patrick-kabanda]
 - Portfolio: [https://kabandapatrick2580.github.io/]
 - Email: [kabanda.patrick2580@gmail.com]
 
